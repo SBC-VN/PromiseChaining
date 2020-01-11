@@ -1,0 +1,19 @@
+{
+  "name": "promisechaining",
+  "version": "1.0.0",
+  "description": "Exercise in chaining promises",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBC-VN/PromiseChaining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBC-VN/PromiseChaining/issues"
+  },
+  "homepage": "https://github.com/SBC-VN/PromiseChaining#readme"
+}
